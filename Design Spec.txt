@@ -1,0 +1,19 @@
+Requires Python 3.3x && Python 2.7x
+
+
+Example:
+
+import(time)
+
+num = input("Enter a number: ");
+
+if(num == 5)
+{
+	print("Good job!");
+}
+else
+{
+	print("Never mind");
+}
+
+time.sleep(5);
